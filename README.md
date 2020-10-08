@@ -6,8 +6,6 @@
   Desafio | Desenvolvedor React Native
 </h3>
 
-<strong>O que buscamos?</strong>
-
 Segue o desafio que compõe a segunda fase do processo seletivo para vaga de desenvolvedor React Native na LeadMark. Busque desenvolver cada etapa mesmo que não consiga atingir 100%. Não queremos saber apenas o que você já sabe, mas o seu potencial de aprendizado.
 
 <strong>O Desafio...</strong>
